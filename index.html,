@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Class 10 SSC Study</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial;
+      background: #eef5ff;
+      text-align: center;
+      margin: 0;
+    }
+    header {
+      background: #1455a0;
+      color: white;
+      padding: 25px;
+    }
+    section {
+      background: white;
+      margin: 15px;
+      padding: 20px;
+      border-radius: 12px;
+    }
+    a {
+      color: #1455a0;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Class 10 SSC Study</h1>
+    <p>Your free learning website</p>
+  </header>
+  <section>
+    <h2>📘 Mathematics</h2>
+    <p>Learn formulas and solve problems.</p>
+  </section>
+  <section>
+    <h2>🔬 Science</h2>
+    <p>Study Physics, Chemistry and Biology.</p>
+  </section>
+  <section>
+    <h2>📚 Study Materials</h2>
+    <p>Class 10 notes and exam preparation.</p>
+  </section>
+</body>
+</html>
